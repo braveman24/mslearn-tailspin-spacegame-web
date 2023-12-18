@@ -1,3 +1,4 @@
+[![Build Status](https://bcetani.visualstudio.com/Space%20Game%20-%20web%20-%20Workflow/_apis/build/status%2Fmslearn-tailspin-spacegame-web?branchName=main)](https://bcetani.visualstudio.com/Space%20Game%20-%20web%20-%20Workflow/_build/latest?definitionId=2&branchName=main)
 
 # Contributing
 
